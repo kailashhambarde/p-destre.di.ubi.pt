@@ -3,9 +3,9 @@ import os.path as osp
 import glob
 
 class Pdestre:
-    root = "/home/socialab/Downloads/pedestrian/"
-    test_out_path = "/home/socialab/Downloads/pedestrian/"
-    split_path = "/home/socialab/Downloads/pedestrian/Splits/"
+    root = ""
+    test_out_path = ""
+    split_path = ""
     
     def __init__(self, root='', split_id=0):
         self.root = osp.abspath(osp.expanduser(root))
