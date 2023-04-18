@@ -13,9 +13,9 @@ is_print_once_enabled = True
 
 
 class Pdestre(ImageDataset):
-    root = "/home/socialab/Desktop/Kailash/deep-person-reid/reid-data/"
-    test_out_path = "/home/socialab/Desktop/Kailash/deep-person-reid/reid-data/"
-    split_path = "/home/socialab/Desktop/Kailash/deep-person-reid/Splits/"
+    root = ""
+    test_out_path = ""
+    split_path = ""
 
     split_id = 1
     max_splits = 5
