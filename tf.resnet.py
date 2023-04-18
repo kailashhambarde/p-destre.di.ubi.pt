@@ -7,7 +7,7 @@ from tensorflow.keras.optimizers import Adam
 from sklearn.metrics import average_precision_score
 
 # Define the Pdestre dataset
-pdestre = Pdestre(root='/home/socialab/Downloads/pedestrian/', split_id=1)
+pdestre = Pdestre(root='')
 
 # Create the custom data generators
 train_generator = CustomDataGenerator(pdestre.train, batch_size=32)
