@@ -3,7 +3,7 @@ import os.path as osp
 import glob
 
 class Pdestre:
-    root = ""
+    root = "" #root dir path
     test_out_path = ""
     split_path = ""
     
