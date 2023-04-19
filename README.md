@@ -52,7 +52,7 @@ Follow these steps to register your custom data class with torchreid:
 2. Add the following code snippet to the `__init__.py` file in the `torchreid/data/datasets` folder:
 
 ```python
-from .custom_data import CustomData
+from .torchreid.data_class import Pdestre
 ```
 
 ## 🙏 Acknowledgements
