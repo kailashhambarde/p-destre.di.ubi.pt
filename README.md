@@ -22,8 +22,6 @@ Also conatains a custom data class for tensorflow.
 - [Installation](#-installation)
 - [Usage](#-usage)
   - [Manual Registration](#manual-registration)
-- [Contributing](#-contributing)
-- [License](#-license)
 - [Acknowledgements](#-acknowledgements)
 
 ## 🔧 Installation
