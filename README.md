@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ## 🛠️ Usage
 
-### Automatic Registration
+### Manual Registration
 
 Follow these steps to register your custom data class with torchreid:
 
