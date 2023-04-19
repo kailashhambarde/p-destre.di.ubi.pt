@@ -34,11 +34,6 @@ A step-by-step guide on how to install and set up the custom data class project 
 git clone git@github.com:kailaspanu/p-destre.di.ubi.pt.git
 git clone https://github.com/KaiyangZhou/deep-person-reid.git
 
-# Navigate to the custom data class project folder
-cd p-destre.di.ubi.pt
-
-# Install the required dependencies
-pip install -r requirements.txt
 
 # More setup instructions as per torchreid 
 ```
