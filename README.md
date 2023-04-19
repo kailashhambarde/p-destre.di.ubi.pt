@@ -1,6 +1,4 @@
-# 🚀 p-destre.di.ubi.pt Custom Data Class for Torchreid
-
-
+# 🚀 P-DESTRE Custom Data Class for Torchreid
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
