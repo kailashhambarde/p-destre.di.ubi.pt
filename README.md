@@ -50,7 +50,6 @@ from .torchreid.data_class import Pdestre
 
 
 - Project Inspiration: [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid)
-- Code Inspiration: [SymbolicTemporalPooling](https://github.com/aru05c/SymbolicTemporalPooling)
 
 Thank you!
 
