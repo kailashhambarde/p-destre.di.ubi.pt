@@ -1,10 +1,6 @@
-# 🚀 Custom Data Class for Torchreid
+# 🚀 p-destre.di.ubi.pt Custom Data Class for Torchreid
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=flat-square)
-![GitHub](https://img.shields.io/github/license/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=flat-square)
+
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -51,11 +47,20 @@ pip install -r requirements.txt
 
 ### Automatic Registration
 
-Follow these steps to automatically register your custom data class with torchreid:
+Follow these steps to register your custom data class with torchreid:
 
-1. Place your custom data class file (e.g., `torchreid.py`) in the `torchreid/data/datasets` folder of the deep-person-reid framework.
+1. Place your custom data class file (e.g., `torchreid.data_class.py`) in the `torchreid/data/datasets` folder of the deep-person-reid framework.
 2. Add the following code snippet to the `__init__.py` file in the `torchreid/data/datasets` folder:
 
 ```python
 from .custom_data import CustomData
 ```
+
+## 🙏 Acknowledgements
+
+We would like to express our gratitude to the following individuals and resources that inspired and contributed to the success of this project:
+
+- Project Inspiration: [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid)
+
+Thank you for your valuable contributions and support!
+
