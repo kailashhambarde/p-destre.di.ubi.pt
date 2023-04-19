@@ -28,7 +28,7 @@ Also conatains a custom data class for tensorflow.
 
 ## 🔧 Installation
 
-A step-by-step guide on how to install and set up the custom data class project locally.
+A step-by-step guide on how to install and set up the custom torchreid.data_class.py data class project locally.
   ```sh
 # Clone the repositories
 git clone git@github.com:kailaspanu/p-destre.di.ubi.pt.git
@@ -42,7 +42,7 @@ git clone https://github.com/KaiyangZhou/deep-person-reid.git
 
 ### Manual Registration
 
-Follow these steps to register your custom data class with torchreid:
+Follow these steps to register your custom torchreid.data_class.py data class with torchreid:
 
 1. Place your custom data class file (e.g., `torchreid.data_class.py`) in the `torchreid/data/datasets` folder of the deep-person-reid framework.
 2. Add the following code snippet to the `__init__.py` file in the `torchreid/data/datasets` folder:
@@ -53,9 +53,8 @@ from .torchreid.data_class import Pdestre
 
 ## 🙏 Acknowledgements
 
-We would like to express our gratitude to the following individuals and resources that inspired and contributed to the success of this project:
 
 - Project Inspiration: [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid)
 
-Thank you for your valuable contributions and support!
+Thank you!
 
