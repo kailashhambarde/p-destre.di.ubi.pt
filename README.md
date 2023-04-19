@@ -36,7 +36,8 @@ A step-by-step guide on how to install and set up the custom data class project 
 
 ```sh
 # Clone the repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+git clone git@github.com:kailaspanu/p-destre.di.ubi.pt.git
+git https://github.com/KaiyangZhou/deep-person-reid
 
 # Navigate to the project folder
 cd YOUR_REPO_NAME
@@ -44,5 +45,5 @@ cd YOUR_REPO_NAME
 # Install the required dependencies
 pip install -r requirements.txt
 
-# More setup instructions
+# More setup follow as per torechreid
 ...
