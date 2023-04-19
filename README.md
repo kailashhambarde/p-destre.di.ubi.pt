@@ -6,6 +6,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 This repository contains a custom data class for torchreid, designed to work seamlessly with the [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid) framework.
+Also conatains a custom data class for tensorflow.
 
 ![Custom Data Class Demo](path/to/demo.gif)
 
