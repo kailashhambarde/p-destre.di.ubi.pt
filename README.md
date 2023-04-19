@@ -47,3 +47,16 @@ pip install -r requirements.txt
 
 # More setup follow as per torechreid
 ...
+
+## 🛠️ Usage
+
+### Automatic Registration
+
+Follow these steps to automatically register your custom data class with torchreid:
+
+1. Place your custom data class file (e.g., `custom_data.py`) in the `torchreid/data/datasets` folder of the deep-person-reid framework.
+2. Add the following code snippet to the `__init__.py` file in the `torchreid/data/datasets` folder:
+
+```python
+from .custom_data import CustomData
+
