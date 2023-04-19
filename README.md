@@ -20,7 +20,6 @@ This repository contains a custom data class for torchreid, designed to work sea
 
 - [Installation](#-installation)
 - [Usage](#-usage)
-  - [Automatic Registration](#automatic-registration)
   - [Manual Registration](#manual-registration)
 - [Contributing](#-contributing)
 - [License](#-license)
